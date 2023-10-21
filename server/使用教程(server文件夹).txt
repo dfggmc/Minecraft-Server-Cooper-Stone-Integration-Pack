@@ -1,0 +1,60 @@
+本整合包使用cuberite服务端
+内置login,Essentials,CRTP,PluginMemory,Portal v2
+PreciousBlocks有问题，会导致崩端，请勿启用
+
+服务端下载（linux)：
+首先打开setup.sh
+然后等待
+等出现带有./Cuberite的信息后就可以了
+将原来的Plugins文件夹删除，新建一个Plugins文件夹，将Plugins.tar里的文件和文件夹解压到Plugins,注意区分文件夹名称大小写
+看启动
+
+服务端下载（windows)：
+仅适用于64位的windows
+32位自己下：https://download.cuberite.org/windows-i386/Cuberite.zip
+解压Cuberite.zip里的文件到目录
+看启动
+
+服务端下载(Macos):
+仅适用于64位的Mac
+解压Cuberite.tar.gz里的文件到目录
+看启动
+
+服务端下载(其他):
+预编译版本：https://cuberite.org/download-links/
+
+自己编译Cuberite:
+自己编译需要更长的时间并且涉及更多，但在现代处理器上可以导致高达 1.5 到 3 倍的速度提高。 如果您的操作系统或硬件不受官方支持，编译可能是运行 Cuberite 的唯一方法。
+建议 *nix 用户使用自动编译脚本。 自动编译脚本会为您处理编译过程。您只需将此命令复制到终端：
+sh -c "$(wget -O - https://compile.cuberite.org)"
+如果您更喜欢手动编译，或者想要针对 Windows 进行编译，请参阅主存储库(https://github.com/Cuberite/Cuberite)中的 COMPILING.md。
+此过程需要使用命令行。如果您不熟悉它，建议您改用预编译的版本。
+
+启动：
+初次打开请先修改settings.ini中的设置，我已标好位置，把文字删掉改成自己想写的就行，其他的不要动，默认可离线登录，如需要启动正版验证可将Authentication下的Authenticate变量修改为1
+linux系统和MacOS启动服务端请使用终端cd到服务端根目录（就是整合包文件夹)，然后输入./Cuberite即可
+windows系统启动服务端根目录里的Cuberite.exe即可
+出现Startup complete代表启动成功
+设置服务端到settings.ini
+服务端配置教程请看：https://book.cuberite.org
+记得翻译
+
+意外情况处理：
+有时需要chomd +x Cuberite后才能./Cuberite
+
+插件的使用：
+Essentials：https://plugins.cuberite.org/show/18986320
+login：https://forum.cuberite.org/thread-811.html?highlight=login
+CRTP：https://plugins.cuberite.org/show/314138877
+PreciousBlocks：https://plugins.cuberite.org/show/38134998
+PluginMemory:https://plugins.cuberite.org/show/38163913
+Portal v2:https://forum.cuberite.org/thread-2157.html
+
+网页管理：
+网页管理默认为8080端口，可以在webadmin.ini里改
+用户名为admin,密码为admin
+默认启用
+
+更多插件：
+https://forum.cuberite.org/forum-2.html
+可以在这里找

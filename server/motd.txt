@@ -1,0 +1,6 @@
+&6欢迎来到dfgg服务器！
+&6官方网站:https://dfggmc.cn.eu.org
+&6祝你玩的开心！默认是生存世界，输入/skyblock play获取(回到)你的空岛！
+&6空岛没资源可以把身上东西放箱子，死回生存世界，收集完资源后再输入/skyblock play回到空岛
+&6死亡掉落！空岛生存中有疑问请输入/skyblock help
+&6免费DNS：https://freedns.afraid.org/

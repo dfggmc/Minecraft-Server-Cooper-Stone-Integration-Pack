@@ -1,0 +1,1 @@
+Cuberite Jenkins arm-linux-gnueabihf-raspbian -DCMAKE_BUILD_TYPE=Release (master)-#382\nhttps://builds.cuberite.org/job/linux-armhf/382/
