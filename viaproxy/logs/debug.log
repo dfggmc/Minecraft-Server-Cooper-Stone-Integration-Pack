@@ -1,0 +1,66 @@
+[21:23:00] [main/INFO] (ViaProxy) Initializing ViaProxy CLI v3.0.20 (Injected using Injection ClassLoader)...
+[21:23:00] [main/INFO] (ViaProxy) Using java version: Java HotSpot(TM) 64-Bit Server VM 1.8.0_381 (Oracle Corporation) on Windows 11
+[21:23:00] [main/INFO] (ViaProxy) Available memory (bytes): 939524096
+[21:23:00] [main/DEBUG] (io.netty.util.internal.logging.InternalLoggerFactory) Using SLF4J as the default logging framework
+[21:23:00] [main/DEBUG] (io.netty.util.ResourceLeakDetector) -Dio.netty.leakDetection.level: simple
+[21:23:00] [main/DEBUG] (io.netty.util.ResourceLeakDetector) -Dio.netty.leakDetection.targetRecords: 4
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) -Dio.netty.noUnsafe: false
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) Java version: 8
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) sun.misc.Unsafe.theUnsafe: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) sun.misc.Unsafe.copyMemory: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) sun.misc.Unsafe.storeFence: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) java.nio.Buffer.address: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) direct buffer constructor: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) java.nio.Bits.unaligned: available, true
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent0) java.nio.DirectByteBuffer.<init>(long, {int,long}): available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) sun.misc.Unsafe: available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) -Dio.netty.tmpdir: C:\Users\peg19\AppData\Local\Temp (java.io.tmpdir)
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) Platform: Windows
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) -Dio.netty.maxDirectMemory: 939524096 bytes
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[21:23:00] [main/DEBUG] (io.netty.util.internal.CleanerJava6) java.nio.ByteBuffer.cleaner(): available
+[21:23:00] [main/DEBUG] (io.netty.util.internal.PlatformDependent) -Dio.netty.noPreferDirect: false
+[21:23:00] [main/DEBUG] (io.netty.util.concurrent.GlobalEventExecutor) -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[21:23:00] [main/DEBUG] (io.netty.util.internal.InternalThreadLocalMap) -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[21:23:00] [main/DEBUG] (io.netty.util.internal.InternalThreadLocalMap) -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[21:23:02] [Via-Mappingloader-0/INFO] (ViaVersion) Loading block connection mappings ...
+[21:23:03] [ViaLoader/INFO] (ViaBackwards) Loading translations...
+[21:23:03] [ViaLoader/INFO] (ViaBackwards) Registering protocols...
+[21:23:05] [ViaLoader/DEBUG] (io.netty.channel.MultithreadEventLoopGroup) -Dio.netty.eventLoopThreads: 8
+[21:23:05] [ViaLoader/DEBUG] (io.netty.channel.nio.NioEventLoop) -Dio.netty.noKeySetOptimization: false
+[21:23:05] [ViaLoader/DEBUG] (io.netty.channel.nio.NioEventLoop) -Dio.netty.selectorAutoRebuildThreshold: 512
+[21:23:05] [ViaLoader/DEBUG] (io.netty.util.internal.PlatformDependent) org.jctools-core.MpscChunkedArrayQueue: available
+[21:23:05] [ViaLoader/DEBUG] (io.netty.channel.DefaultChannelId) -Dio.netty.processId: 21128 (auto-detected)
+[21:23:05] [ViaLoader/DEBUG] (io.netty.util.NetUtil) -Djava.net.preferIPv4Stack: false
+[21:23:05] [ViaLoader/DEBUG] (io.netty.util.NetUtil) -Djava.net.preferIPv6Addresses: false
+[21:23:05] [ViaLoader/DEBUG] (io.netty.util.NetUtilInitializations) Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[21:23:05] [ViaLoader/DEBUG] (io.netty.util.NetUtil) Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[21:23:05] [ViaLoader/DEBUG] (io.netty.channel.DefaultChannelId) -Dio.netty.machineId: 00:e0:70:ff:fe:06:4e:07 (auto-detected)
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.numHeapArenas: 8
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.numDirectArenas: 8
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.pageSize: 8192
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.maxOrder: 9
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.chunkSize: 4194304
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.smallCacheSize: 256
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.normalCacheSize: 64
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.cacheTrimInterval: 8192
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.useCacheForAllThreads: false
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.PooledByteBufAllocator) -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.ByteBufUtil) -Dio.netty.allocator.type: pooled
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.ByteBufUtil) -Dio.netty.threadLocalDirectBufferSize: 0
+[21:23:05] [ViaLoader/DEBUG] (io.netty.buffer.ByteBufUtil) -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[21:23:05] [ViaLoader/INFO] (ViaBedrock) Started resource pack HTTP server on http://127.0.0.1:61921/
+[21:23:05] [ViaLoader/INFO] (ViaVersion) ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[21:23:05] [ViaLoader/INFO] (ViaVersion) Highest supported version by the proxy: 1.20-1.20.1 (763)
+[21:23:05] [ViaLoader/WARN] (ViaVersion) You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_381). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[21:23:06] [main/INFO] (ViaProxy) ViaProxy started successfully!
+[21:23:06] [main/INFO] (ViaProxy) Starting proxy server
+[21:23:06] [main/INFO] (ViaProxy) Binding proxy server to 0.0.0.0:56558
+[21:23:14] [Via-Mappingloader-11/DEBUG] (io.netty.buffer.AbstractByteBuf) -Dio.netty.buffer.checkAccessible: true
+[21:23:14] [Via-Mappingloader-11/DEBUG] (io.netty.buffer.AbstractByteBuf) -Dio.netty.buffer.checkBounds: true
+[21:23:14] [Via-Mappingloader-11/DEBUG] (io.netty.util.ResourceLeakDetectorFactory) Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@529c1191
+[21:23:16] [Via Async Scheduler 0/INFO] (ViaVersion) Finished mapping loading, shutting down loader executor!

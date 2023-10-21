@@ -1,0 +1,3 @@
+一份GeyserMC搭建的文字版教程：https://www.bilibili.com/read/cv9737580
+原作者：Lopliter
+懒得写了，反正魔改的跟原版差不多，配置文件都在plugins下的geyser

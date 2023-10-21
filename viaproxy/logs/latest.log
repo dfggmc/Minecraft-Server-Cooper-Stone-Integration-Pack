@@ -1,0 +1,14 @@
+[21:23:00] [main/INFO] (ViaProxy) Initializing ViaProxy CLI v3.0.20 (Injected using Injection ClassLoader)...
+[21:23:00] [main/INFO] (ViaProxy) Using java version: Java HotSpot(TM) 64-Bit Server VM 1.8.0_381 (Oracle Corporation) on Windows 11
+[21:23:00] [main/INFO] (ViaProxy) Available memory (bytes): 939524096
+[21:23:02] [Via-Mappingloader-0/INFO] (ViaVersion) Loading block connection mappings ...
+[21:23:03] [ViaLoader/INFO] (ViaBackwards) Loading translations...
+[21:23:03] [ViaLoader/INFO] (ViaBackwards) Registering protocols...
+[21:23:05] [ViaLoader/INFO] (ViaBedrock) Started resource pack HTTP server on http://127.0.0.1:61921/
+[21:23:05] [ViaLoader/INFO] (ViaVersion) ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[21:23:05] [ViaLoader/INFO] (ViaVersion) Highest supported version by the proxy: 1.20-1.20.1 (763)
+[21:23:05] [ViaLoader/WARN] (ViaVersion) You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_381). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[21:23:06] [main/INFO] (ViaProxy) ViaProxy started successfully!
+[21:23:06] [main/INFO] (ViaProxy) Starting proxy server
+[21:23:06] [main/INFO] (ViaProxy) Binding proxy server to 0.0.0.0:56558
+[21:23:16] [Via Async Scheduler 0/INFO] (ViaVersion) Finished mapping loading, shutting down loader executor!

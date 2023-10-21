@@ -1,0 +1,12 @@
+下面是一个示例命令，允许玩家加入您的serverip：25568并连接到在端口25565上运行的beta 1.7.3服务器：java -jar ViaProxy.jar --bind_port 25568 --target_ip 127.0.0.1 --target_port 25565 --version b1.7-b1.7.3
+
+这里，--bind_port是你希望别人连接的端口，--target_port是主服务器端口，--version是主服务器版本
+
+命令的意思：
+java启动ViaProxy.jar,设置客户端连接端口为25568,设置要连接到的服务端的ip为127.0.0.1,设置要连接到的服务器链接的端口为25565,设置要连接到的服务端的版本为b1.7-b.1.7.3
+
+那么，如果我想让我的朋友使用1.20版本通过ViaProxy从56558端口进入端口为25565的主服务器(cuberite服务器最高1.12.2版本），就要写：java -jar ViaProxy.jar --bind_port 56558 --target_ip 127.0.0.1 --target_port 25565 --version 1.12.2
+
+现在，启动终端，cd到这个目录，将命令改成你想要的样子，执行，就行了（确认主服务器也是开着的）
+
+附：plugins里有geyser插件，可以进行基岩版连接java版服务器的互通，详见geyser配置教程.txt
