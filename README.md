@@ -11,11 +11,11 @@ Cuberite是一个与Minecraft Java版兼容的免费开源（FOSS）游戏服务
 
 本整合包仅在dfggbbs,klpbbs和MineBBS发布
 
-dfggbbs: https://bbs.dfggmc.top/d/7-yuan- ... cun-zheng-he-bao-v4
+dfggbbs: [https://bbs.dfggmc.top/d/7-yuan- ... cun-zheng-he-bao-v4](https://bbs.dfggmc.top/d/7-yuan-chuang-sheng-cun-hu-tong-kua-ban-ben-cuberiteku-bo-shi-sheng-cun-zheng-he-bao-v4)
 
-klpbbs: https://klpbbs.com/forum.php?mod ... 0681&fromuid=870159
+klpbbs: [https://klpbbs.com/forum.php?mod ... 0681&fromuid=870159](https://klpbbs.com/forum.php?mod=viewthread&tid=110681&fromuid=870159)
 
-minebbs: https://www.minebbs.com/resources/cuberite.6485/
+minebbs: [https://www.minebbs.com/resources/cuberite.6485/](https://www.minebbs.com/resources/cuberite.6485/)
 
 预编译版本支持平台：Linux，Windows，MacOS，FreeBSD，Darwin
 
