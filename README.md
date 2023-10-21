@@ -1,15 +1,31 @@
 # 我的世界服务端库伯石生存整合包
 dfgg服务器管理自创的整合包
+
+
 下载源代码解压后请看介绍.txt
+
+
 本整合包使用Cuberite服务端
+
+
 这个整合包只是为了帮助新手开Cuberite服务器
+
+
 Cuberite是一个与Minecraft Java版兼容的免费开源（FOSS）游戏服务器。Cuberite 在设计时考虑了性能、可配置性和可扩展性，旨在准确重现大多数原版功能。服务器是用C++编写的，并且有一个广泛的插件系统，允许用户使用 Lua 编写自己的插件。
+
+
 本整合包仅在dfggbbs,klpbbs和MineBBS发布
+
+
 dfggbbs: https://bbs.dfggmc.top/d/7-yuan- ... cun-zheng-he-bao-v4
+
+
 klpbbs: https://klpbbs.com/forum.php?mod ... 0681&fromuid=870159
+
 minebbs: https://www.minebbs.com/resources/cuberite.6485/
 
 预编译版本支持平台：Linux，Windows，MacOS，FreeBSD，Darwin
+
 预编译版本支持架构：i386, x86_64, armv8, armv7
 
 自己编译Cuberite:
