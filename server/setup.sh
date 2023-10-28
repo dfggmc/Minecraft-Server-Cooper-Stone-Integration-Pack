@@ -27,17 +27,17 @@ if [ "$KERNEL" = "Linux" ]; then
 elif [ "$KERNEL" = "Darwin" ]; then
 	# All Darwins we care about are x86_64
 	DOWNLOADURL="https://download.cuberite.org/darwin-x86_64/Cuberite.tar.gz"
-#elif [ "$KERNEL" = "FreeBSD" ]; then
-#	DOWNLOADURL="https://builds.cuberite.org/job/Cuberite%20FreeBSD%20x64%20Master/lastSuccessfulBuild/artifact/Cuberite.tar.gz"
+elif [ "$KERNEL" = "FreeBSD" ]; then
+	DOWNLOADURL="https://builds.cuberite.org/job/Cuberite%20FreeBSD%20x64%20Master/lastSuccessfulBuild/artifact/Cuberite.tar.gz"
 else
 	echo "Unsupported kernel."
 	exit 1
 fi
 
-echo "Downloading precompiled binaries."
+echo "下载完毕"
 curl -Ls $DOWNLOADURL | tar -xzf -
-echo "Done."
+echo "完毕"
 
-echo "Cuberite is now installed, run using 'cd Server; ./Cuberite'."
+echo "Cuberite已经下载完毕，享用你的新服务端！执行./Cuberite即可启动"
 
 }
